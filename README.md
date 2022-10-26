@@ -39,7 +39,7 @@ Regular updates as I study
 - Data Structure Wangzhuo 数据结构与算法基础 青岛大学王卓 8/173 (https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
 
 # 字符串和字符数组
-需要加强对那个字符串和字符数组相关知识的一个学习和理解，字符串和数组必须要学习的，这里学习了，后面再学习Java，就会融会贯通了
+需要加强对字符串和字符数组相关知识的一个学习和理解，字符串和数组必须要学习的，这里学习了，后面再学习Java，就会融会贯通了
 
 ## Finished
 - 有一定的收获 总体讲得还行 但是有的地方不是很清晰 不会特别推荐的视频 字符数组与字符串 可以加速扫盲用 不用深究细节 (https://www.bilibili.com/video/BV1e54y197ba/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=75c80b89-6d15-4f10-b025-70ba5303e357&share_source=WEIXIN&share_tag=s_i&timestamp=1666503561&unique_k=VlJ0sdB&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
