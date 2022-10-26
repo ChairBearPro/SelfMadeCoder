@@ -31,7 +31,8 @@ Regular updates as I study
 # The Odin Project
 ## In progress
 - The Odin Project (Foundation 20% still familiarizing command lines)
- - https://swcarpentry.github.io/shell-novice/ The Unix Shell Course from Setup to Pipeline
+- https://swcarpentry.github.io/shell-novice/ The Unix Shell Course from Setup to Pipeline
+    - details: https://github.com/ChairBearPro/SelfMadeCoder/issues/2
 
 # Data Structure and Algorithm
 
