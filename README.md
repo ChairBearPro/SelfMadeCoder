@@ -73,5 +73,5 @@ Markdown很不错的Edit平台 & 对应的 readme github
 - 讲得非常好的二八十六进制转换 (https://www.bilibili.com/video/BV1L741147ES/?vd_source=b33f3d034ab3d9f1ee141cb81d3e203e) 建议橘色蝴蝶计算机基础合集全系列视频看完+反复多次学习体会【已经看了二八十六进制、数的表示与存储处理单位、图像视频声音编码、ASCII】 
 
 # Supplemental Materials
-- https://m.runoob.com/git/git-reset.html (might help with "To Solve")
+- https://m.runoob.com/git/git-reset.html
 - 矩阵乘法C语言实现 (重点对应王卓 7/173 中的例子) https://zhuanlan.zhihu.com/p/108085571
