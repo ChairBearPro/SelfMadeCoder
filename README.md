@@ -1,5 +1,6 @@
 # SelfMadeCoder
 Logging self-study activities
 
-Daily study logs title format:        
+Weekly study logs title format:        
 > MM.DD.YYYY Progress.md
+(logs on Sunday)
