@@ -37,7 +37,7 @@ Regular updates as I study
 # Data Structure and Algorithm
 
 ## In Progress
-- Data Structure Wangzhuo 数据结构与算法基础 青岛大学王卓 8/173 (https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
+- Data Structure Wangzhuo 数据结构与算法基础 青岛大学王卓 11/173 (https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
 
 # 字符串和字符数组
 需要加强对字符串和字符数组相关知识的一个学习和理解，字符串和数组必须要学习的，这里学习了，后面再学习Java，就会融会贯通了
