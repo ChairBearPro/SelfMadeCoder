@@ -39,7 +39,7 @@ Regular updates as I study
 ### 结构体和结构体指针
 > - 简短易懂的简化清晰结构体动画介绍 (https://www.bilibili.com/video/BV1GJ411i7Dc/?spm_id_from=333.337.search-card.all.click)
 > - 讲结构体和结构体指针非常棒的视频 (https://www.bilibili.com/video/BV1hq4y1R7bP/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
-> - 看完上一个视频强烈推荐这个 学完指针再回来跟着打一遍 https://www.bilibili.com/video/BV18z4y1S7SD/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e  
+> - 看完上一个视频强烈推荐这个 杜远超 学完指针再回来跟着打一遍 https://www.bilibili.com/video/BV18z4y1S7SD/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e  
 
 ## In Progress
 - 鹏哥 C语言 一维二维数组 2/10 值得好好理解 https://www.bilibili.com/video/BV1ka411M73P/?p=2&spm_id_from=pageDriver&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e
