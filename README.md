@@ -28,7 +28,8 @@ Regular updates as I study
 - C Language Wengkai 浙江大学翁恺 5 weeks (https://www.icourse163.org/course/ZJU-199001)
 - 这个三分钟讲指针的 说的真的非常不错 (https://www.bilibili.com/video/BV1YB4y1D7cS/?spm_id_from=autoNext&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)   
 - 简化清晰结构体动画介绍 (https://www.bilibili.com/video/BV1GJ411i7Dc/?spm_id_from=333.337.search-card.all.click)
-- 讲结构体和指针非常棒的视频 (https://www.bilibili.com/video/BV1hq4y1R7bP/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)  
+- 讲结构体和结构体指针非常棒的视频 (https://www.bilibili.com/video/BV1hq4y1R7bP/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
+- 看完上一个视频强烈推荐这个 学完指针再回来跟着打一遍 https://www.bilibili.com/video/BV18z4y1S7SD/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e  
 
 # 字符串和字符数组
 需要加强对字符串和字符数组相关知识的一个学习和理解，字符串和数组必须要学习的，这里学习了，后面再学习Java，就会融会贯通了
@@ -47,7 +48,7 @@ Regular updates as I study
 # Data Structure and Algorithm
 
 ## In Progress
-- Data Structure Wangzhuo 数据结构与算法基础 青岛大学王卓 11/173 (https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
+- Data Structure Wangzhuo 数据结构与算法基础 青岛大学王卓 14/173 (https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
 
 # Linux
 ## In Progress
