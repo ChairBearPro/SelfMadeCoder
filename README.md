@@ -72,7 +72,6 @@ Regular updates as I study
 ## Finished
 - Github basics 阿里妈妈 冯雨 (very good video: https://www.bilibili.com/video/BV1e541137Tc/?spm_id_from=333.999.0.0)
 ## To Do
-- Git&Github 尚硅谷 (https://www.bilibili.com/video/BV1pW411A7a5/?is_story_h5=false&p=1&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=18179467-E254-41E5-9776-A4DA8F55A27A&share_source=WEIXIN&share_tag=s_i&timestamp=1666068138&unique_k=V7XyHEW&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
 - Reading: 廖雪峰 (https://www.liaoxuefeng.com/wiki/896043488029600)
 
 # Markdown
