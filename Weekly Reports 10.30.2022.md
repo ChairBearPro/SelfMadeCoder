@@ -1,0 +1,22 @@
+- Learned Markdown language and created a readme using Markdown and anchor links
+- Learned Data Structure Wangzhuo 数据结构与算法基础 青岛大学王卓 9-15/173 (https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
+- Linux Basic Commands (Odin):
+    - Done https://swcarpentry.github.io/shell-novice/ working with files and directories; next week really need to finish all
+    - Detailed progress: https://github.com/ChairBearPro/SelfMadeCoder/issues/2
+- Intro Git:
+    - https://www.liaoxuefeng.com/wiki/896043488029600 finished up to (not include) 远程仓库
+- Strengthened understanding of C:
+    - 指针 
+    - 结构体和结构体指针
+    - 字符数组
+- Understanding 操作系统 - ASCII Binary Hexa
+- Supplemental:
+    - 理解矩阵
+- Hopeful outcomes:
+    - Understand the following:
+        - [x] 是否了解运算符的优先级别？
+        - [x] Break和continue的区别？
+        - [ ] 是否了解短路？
+        - [ ] 什么是块作用域？
+        - [ ] 有没有用过多维数组？
+        - [ ] static的用途是什么？
