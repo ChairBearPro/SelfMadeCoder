@@ -78,7 +78,11 @@ Regular updates as I study
 Markdown很不错的Edit平台 & 对应的 readme github
 - Editor: https://stackedit.io/app#link
 - Github Document: https://github.com/fefong/markdown_readme
-- 优秀的简书总结: <https://www.jianshu.com/p/ed47397774c4>
+- 优秀的简书总结: <https://www.jianshu.com/p/ed47397774c4> (包含转义符\)
+- Reference for Github Line Breaks:
+    - https://www.w3schools.io/file/markdown-line-break/
+    - only **\<br/>** works for me **(remember to add an empty line after \<br/>; if not sure, check the markdown of this file)**
+
 
 # Supplemental Materials
 - https://m.runoob.com/git/git-reset.html
