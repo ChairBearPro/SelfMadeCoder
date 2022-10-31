@@ -2,5 +2,5 @@
 Logging self-study activities
 
 Weekly study logs title format:        
-> MM.DD.YYYY Progress.md
+> Weekly Report MM.DD.YYYY.md
 (logs on Sunday)
