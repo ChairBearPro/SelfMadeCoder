@@ -1,4 +1,4 @@
-- Learned Markdown language and created a readme using Markdown and anchor links
+- Learned Markdown language and created a readme using Markdown and anchor links and line breaks
 - Learned Data Structure Wangzhuo 数据结构与算法基础 青岛大学王卓 9-15/173 (https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
 - Linux Basic Commands (Odin):
     - Done https://swcarpentry.github.io/shell-novice/ working with files and directories; next week really need to finish all
@@ -12,6 +12,8 @@
 - Understanding 操作系统 - ASCII Binary Hexa
 - Supplemental:
     - 理解矩阵
+<br/>
+
 - Hopeful outcomes:
     - Understand the following:
         - [x] 是否了解运算符的优先级别？
@@ -20,3 +22,8 @@
         - [ ] 什么是块作用域？
         - [ ] 有没有用过多维数组？
         - [ ] static的用途是什么？
+- Reference for Github Line Breaks:
+    - https://www.w3schools.io/file/markdown-line-break/
+    - only **\<br/>** works for me **(remember to add an empty line after \<br/>; if not sure, check the markdown of this file)**
+
+
