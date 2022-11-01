@@ -47,7 +47,7 @@ Regular updates as I study
 
 # The Odin Project
 ## In progress
-- The Odin Project (Foundation 20% still familiarizing command lines)
+- The Odin Project (Foundation 22% still familiarizing command lines)
 - https://swcarpentry.github.io/shell-novice/ The Unix Shell Course from Setup to Pipeline
     - details: https://github.com/ChairBearPro/SelfMadeCoder/issues/2
 
@@ -59,6 +59,11 @@ Regular updates as I study
 # 操作系统 - Linux
 ## In Progress
 - Linux basics siki学院 1/54 (https://www.bilibili.com/video/BV1pE411C7ho/?is_story_h5=false&p=1&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=565CCF25-2962-4A90-9BEB-F00ACC228697&share_source=WEIXIN&share_tag=s_i&timestamp=1665462169&unique_k=QoGM9TK)
+
+## Useful Resources
+- An Extremely Useful Resource on Unix and Linux Command Lines (https://www.softcover.io/read/fc6c09de/unix_commands/frontmatter)
+- Helpful and Clean Explain Shell (https://explainshell.com/)
+
 
 # 操作系统 - ASCII Binary Hexa
 二进制八进制十六进制的互相转化，方便去理解我们具体的一些，比如说一些字符，一些数字，一些数据，它在内存里面具体是怎么存的
