@@ -47,9 +47,11 @@ Regular updates as I study
 
 # The Odin Project
 ## In progress
-- The Odin Project (Foundation 22% still familiarizing command lines)
-- https://swcarpentry.github.io/shell-novice/ The Unix Shell Course from Setup to Pipeline
-    - details: https://github.com/ChairBearPro/SelfMadeCoder/issues/2
+- The Odin Project (Foundation 28% going into HTML CSS)
+
+## Finished
+- Shell commands (https://swcarpentry.github.io/shell-novice/) The Unix Shell Course from Setup to Pipeline
+    - details: https://github.com/ChairBearPro/SelfMadeCoder/issues/2 
 
 # Data Structure and Algorithm
 
@@ -76,7 +78,7 @@ Regular updates as I study
 # Git | Github Basics
 ## Finished
 - Github basics 阿里妈妈 冯雨 (very good video: https://www.bilibili.com/video/BV1e541137Tc/?spm_id_from=333.999.0.0)
-## To Do
+## In Progress
 - Reading: 廖雪峰 (https://www.liaoxuefeng.com/wiki/896043488029600)
 
 # Markdown
