@@ -78,8 +78,12 @@ Regular updates as I study
 # Git | Github Basics
 ## Finished
 - Github basics 阿里妈妈 冯雨 (very good video: https://www.bilibili.com/video/BV1e541137Tc/?spm_id_from=333.999.0.0)
-## In Progress
 - Reading: 廖雪峰 (https://www.liaoxuefeng.com/wiki/896043488029600)
+    - 因为信息确实比较outdated了 所以看得比较快 没有深究 重心还是跟Odin的吧
+    - cheat sheet比较有帮助 这个sheet应该比较updated 没有checkout 见useful resources section
+
+## Useful Resources
+- 廖雪峰的git cheat sheet (https://liaoxuefeng.gitee.io/resource.liaoxuefeng.com/git/git-cheat-sheet.pdf)
 
 # Markdown
 Markdown很不错的Edit平台 & 对应的 readme github
