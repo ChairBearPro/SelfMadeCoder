@@ -56,7 +56,7 @@ Regular updates as I study
 # Data Structure and Algorithm
 
 ## In Progress
-- Data Structure Wangzhuo 数据结构与算法基础 青岛大学王卓 17/173 (https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
+- Data Structure Wangzhuo 数据结构与算法基础 青岛大学王卓 20/173 (https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=b33f3d034ab3d9f1ee141cb81d3e203e)
 - Grokking Algorithms 算法图解 on Chapter 7
     - Extremely good video on Dijkstra https://www.youtube.com/watch?v=EFg3u_E6eHU
 
